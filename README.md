@@ -21,17 +21,6 @@
 
 ### 🏠 [Homepage](https://github.com/dswhitely1/final-portfolio#readme)
 
-## Install
-
-```sh
-yarn install
-```
-
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
